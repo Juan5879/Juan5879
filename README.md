@@ -3,7 +3,7 @@
 
 - 🔭 Actualmente trabajando en [AnimalGuardian](https://github.com/Juan5879/AnimalGuardian)
 
-- 🌱 Estoy aprendiendo **Hacking y Ciberseguridad && Reactnative && SQLserver**
+- 🌱 Estoy aprendiendo **Hacking y Ciberseguridad**
 
 - 📫 Contacto **Juan5879.2005@gmail.com**
 
