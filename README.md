@@ -1,8 +1,6 @@
 <h1 align="center">Muy buenas! Soy Juan5879 en redes y Juan para los amigos</h1>
 <h3 align="center">Un apasionado del mundo de la informática, mas que nada de sus redes y la seguridad.</h3>
 
-- 🔭 Actualmente trabajando en [AnimalGuardian](https://github.com/Juan5879/AnimalGuardian)
-
 - 🌱 Estoy aprendiendo **Hacking y Ciberseguridad**
 
 - 📫 Contacto **Juan5879.2005@gmail.com**
