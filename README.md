@@ -1,4 +1,3 @@
-<h1 align="center">Muy buenas! Soy Juan5879 en redes y Juan para los amigos</h1>
 <h3 align="center">Un apasionado del mundo de la informática, mas que nada de sus redes y la seguridad.</h3>
 
 - 🌱 Estoy aprendiendo **Hacking y Ciberseguridad**
